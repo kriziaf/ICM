@@ -1,4 +1,4 @@
-Site viewable on https://kriziaf.github.io/P5/HW1/index.html
+Site viewable on https://kriziaf.github.io/P5/index.html
 
 # The Nine Dot Test: the origin of the phrase "out of the box"
 
