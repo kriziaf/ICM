@@ -1,3 +1,5 @@
+Site viewable on https://kriziaf.github.io/ICM/HW1/index.html
+
 # The Nine Dot Test: the origin of the phrase "out of the box"
 
 In my attempt to design geometric patterns using p5, I wanted to lay the foundation for future projects and thought of a brain teaser. I've just recently discovered this brain teaser this summer. It was a tough nut to crack!
